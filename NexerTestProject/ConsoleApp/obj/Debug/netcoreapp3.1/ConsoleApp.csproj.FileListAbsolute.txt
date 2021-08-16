@@ -4,10 +4,10 @@ D:\testRepo\NexerTestProject\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runti
 D:\testRepo\NexerTestProject\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.dev.json
 D:\testRepo\NexerTestProject\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.dll
 D:\testRepo\NexerTestProject\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.pdb
-D:\testRepo\NexerTestProject\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.AssemblyReference.cache
 D:\testRepo\NexerTestProject\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfoInputs.cache
 D:\testRepo\NexerTestProject\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfo.cs
 D:\testRepo\NexerTestProject\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CoreCompileInputs.cache
 D:\testRepo\NexerTestProject\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.dll
 D:\testRepo\NexerTestProject\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.pdb
 D:\testRepo\NexerTestProject\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.genruntimeconfig.cache
+D:\testRepo\NexerTestProject\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.AssemblyReference.cache

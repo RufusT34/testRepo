@@ -1,6 +1,7 @@
 ﻿using NUnit.Framework;
 using OpenQA.Selenium;
 using NexerTestProject.UI.TestData;
+using System.Threading;
 
 namespace NexerTestProject.UI
 {
@@ -19,8 +20,14 @@ namespace NexerTestProject.UI
         public void NexerMainPage_Menu_VerifyMenuOptions()
         {
             driver.FindElement(MenuButton).Click();
+            Thread.Sleep(300);
             var actualName = driver.FindElement(DesigAndCommunicationTitle).Text;
             Assert.AreEqual(ExpectedSectionName, actualName);
+        }
+        [TearDown]
+        public void TearDown()
+        {
+            driver.Quit();
         }
     }
 }

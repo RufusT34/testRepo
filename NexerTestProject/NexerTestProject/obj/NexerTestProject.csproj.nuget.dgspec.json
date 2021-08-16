@@ -63,6 +63,10 @@
               "target": "Package",
               "version": "[92.0.4515.10700, )"
             },
+            "System.Net.Http": {
+              "target": "Package",
+              "version": "[4.3.4, )"
+            },
             "coverlet.collector": {
               "target": "Package",
               "version": "[3.0.2, )"
