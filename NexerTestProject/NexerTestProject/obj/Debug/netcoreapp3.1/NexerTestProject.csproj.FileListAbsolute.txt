@@ -6,13 +6,13 @@ D:\testRepo\NexerTestProject\NexerTestProject\bin\Debug\netcoreapp3.1\NUnit3.Tes
 D:\testRepo\NexerTestProject\NexerTestProject\bin\Debug\netcoreapp3.1\nunit.engine.dll
 D:\testRepo\NexerTestProject\NexerTestProject\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
 D:\testRepo\NexerTestProject\NexerTestProject\bin\Debug\netcoreapp3.1\nunit.engine.core.dll
+D:\testRepo\NexerTestProject\NexerTestProject\bin\Debug\netcoreapp3.1\testcentric.engine.metadata.dll
 D:\testRepo\NexerTestProject\NexerTestProject\bin\Debug\netcoreapp3.1\NexerTestProject.deps.json
 D:\testRepo\NexerTestProject\NexerTestProject\bin\Debug\netcoreapp3.1\NexerTestProject.runtimeconfig.json
 D:\testRepo\NexerTestProject\NexerTestProject\bin\Debug\netcoreapp3.1\NexerTestProject.runtimeconfig.dev.json
 D:\testRepo\NexerTestProject\NexerTestProject\bin\Debug\netcoreapp3.1\NexerTestProject.dll
 D:\testRepo\NexerTestProject\NexerTestProject\bin\Debug\netcoreapp3.1\NexerTestProject.pdb
 D:\testRepo\NexerTestProject\NexerTestProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
-D:\testRepo\NexerTestProject\NexerTestProject\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
 D:\testRepo\NexerTestProject\NexerTestProject\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
 D:\testRepo\NexerTestProject\NexerTestProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
 D:\testRepo\NexerTestProject\NexerTestProject\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
@@ -23,7 +23,6 @@ D:\testRepo\NexerTestProject\NexerTestProject\bin\Debug\netcoreapp3.1\Newtonsoft
 D:\testRepo\NexerTestProject\NexerTestProject\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
 D:\testRepo\NexerTestProject\NexerTestProject\bin\Debug\netcoreapp3.1\nunit.framework.dll
 D:\testRepo\NexerTestProject\NexerTestProject\bin\Debug\netcoreapp3.1\WebDriver.dll
-D:\testRepo\NexerTestProject\NexerTestProject\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
 D:\testRepo\NexerTestProject\NexerTestProject\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
 D:\testRepo\NexerTestProject\NexerTestProject\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
 D:\testRepo\NexerTestProject\NexerTestProject\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll

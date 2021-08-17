@@ -10,4 +10,3 @@ D:\testRepo\NexerTestProject\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.cspro
 D:\testRepo\NexerTestProject\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.dll
 D:\testRepo\NexerTestProject\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.pdb
 D:\testRepo\NexerTestProject\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.genruntimeconfig.cache
-D:\testRepo\NexerTestProject\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.AssemblyReference.cache
